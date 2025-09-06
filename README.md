@@ -29,7 +29,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 Copy the following content into your new created .tmux.conf
 
-## Warning ⚠: Make sure you've already installed `xclip` package in your system otherwise run `sudo apt install xclip`
+**Warning ⚠**: Make sure you've already installed `xclip` package in your system otherwise run `sudo apt install xclip`
 
 ### X-11 SESSION
 ```bash
